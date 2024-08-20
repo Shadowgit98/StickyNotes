@@ -2,7 +2,10 @@ Sticky Note Web App Overview: This is a simple, yet powerful sticky note web app
 
 Features Create Notes: Add new sticky notes with ease. Edit Notes: Modify existing notes. Delete Notes: Remove notes that are no longer needed. Change Colors: Choose your favourite colors. Real-Time Updates: See updates in real-time across all connected devices. Authentication: Secure login and registration powered by Appwrite. Installation Clone the Repository
 
-bash Copy code git clone https://github.com/Shadowgit98/StickyNotes.git cd sticky-note-app Install Dependencies
+bash Copy code :
+- git clone https://github.com/Shadowgit98/StickyNotes.git
+- cd sticky-note-app
+- Install Dependencies
 
 Features
 - Drag and Drop notes anywhere on screen
