@@ -15,6 +15,8 @@ The application is connected to a backend powered by Appwrite, which handles the
 - Autogrow note size as data is input
 - Autosave notes as you add data.
 
+
+
 ## bash
 
 - npm install Set Up Appwrite and configure its URI from .env.sample to .env
