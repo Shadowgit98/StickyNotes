@@ -21,9 +21,12 @@ The application is connected to a backend powered by Appwrite, which handles the
 - Ensure you have an Appwrite instance running. 
 - Configure your Appwrite project and update the .env file with your Appwrite credentials.
 - Run the Application
+- npm start
 
-npm start Technologies Used Frontend: HTML, CSS, JavaScript, React JS with vite 
-Backend: Appwrite Other Tools: npm, Webpack, etc. 
+## Technologies Used Frontend: 
+- HTML, CSS, JavaScript, React JS with vite 
+## Backend: 
+- Appwrite Other Tools: npm, Webpack, etc. 
 
 Contributing Contributions are welcome! 
 Please fork the repository and submit a pull request for any improvements or bug fixes.
