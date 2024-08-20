@@ -28,9 +28,11 @@ The application is connected to a backend powered by Appwrite, which handles the
 ## Technologies Used Frontend: 
 - HTML, CSS, JavaScript, React JS with vite 
 ## Backend: 
-- Appwrite Other Tools: npm, Webpack, etc. 
+- Appwrite
+- Other Tools: npm, Webpack. 
 
-Contributing Contributions are welcome! 
+Contributions are welcome! 
 Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 License This project is licensed under the MIT License
+Made with @Prathmesh G - Shadowgit.
