@@ -15,7 +15,7 @@ The application is connected to a backend powered by Appwrite, which handles the
 - Autogrow note size as data is input
 - Autosave notes as you add data.
 
-
+<img src="demo.gif"/>
 
 ## bash
 
