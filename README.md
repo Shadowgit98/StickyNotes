@@ -21,4 +21,4 @@ bash
 
 npm start Technologies Used Frontend: HTML, CSS, JavaScript, React JS with vite Backend: Appwrite Other Tools: npm, Webpack, etc. Contributing Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-License This project is licensed under the @Prathmesh G - Shadowgit
+License This project is licensed under the MIT License
