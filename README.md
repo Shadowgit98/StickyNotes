@@ -8,20 +8,19 @@ The application is connected to a backend powered by Appwrite, which handles the
 - cd sticky-note-app
 - Install Dependencies
 
-Features
+## Features
 - Drag and Drop notes anywhere on screen
 - Save note data, position and color in database
 - Change note color at anytime
 - Autogrow note size as data is input
 - Autosave notes as you add data.
 
-bash
+## bash
 
-npm install Set Up Appwrite and configure its URI from .env.sample to .env
-
-Ensure you have an Appwrite instance running. Configure your Appwrite project and update the .env file with your Appwrite credentials. Run the Application
-
-bash
+- npm install Set Up Appwrite and configure its URI from .env.sample to .env
+- Ensure you have an Appwrite instance running. 
+- Configure your Appwrite project and update the .env file with your Appwrite credentials.
+- Run the Application
 
 npm start Technologies Used Frontend: HTML, CSS, JavaScript, React JS with vite 
 Backend: Appwrite Other Tools: npm, Webpack, etc. 
